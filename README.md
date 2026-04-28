@@ -27,7 +27,7 @@
 
 <p align="left">
 <a href="unalnagehann@gmail.com" target="blank">
-GitHub Profile
+unalnagehann@gmail.com
 </a>
 </p>
 
