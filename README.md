@@ -17,7 +17,7 @@
 ### 🚀 About Me
 
 - 💻 I’m interested in *Software Development & Algorithms*
-- 🧠 Currently improving myself in *C, C++, and C#*
+- 🧠 Currently improving myself in *C, C++, C#, HTML, CSS*
 - 🌱 I’m learning new technologies step by step
 - 🎯 My goal is to become a strong software developer
 
