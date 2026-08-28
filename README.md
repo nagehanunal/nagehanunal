@@ -42,6 +42,10 @@ unalnagehann@gmail.com
 
 <a href="https://www.w3schools.com/cs/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40" height="40"/></a>&nbsp;
 
+<a href="https://www.w3schools.com/html/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="40" height="40"/></a>&nbsp;
+
+<a href="https://www.w3schools.com/css/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="40" height="40"/></a>&nbsp;
+
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" width="40" height="40"/></a>
 </p>
 
